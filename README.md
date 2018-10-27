@@ -1,5 +1,5 @@
-# Recursion
-Recursion in Java
+# Recursive-Methods
+Recursive methods in Java
 
 Table Name:
 
